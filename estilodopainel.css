@@ -1,0 +1,116 @@
+html, body{
+    height: 100%;
+    margin: 5px;
+    padding: 5px;
+}
+
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://pa1.narvii.com/5907/f2d0b3c94f63a0342e9b2e01d0bf51bcff5bbf5b_hq.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
+
+@media (max-width: 768px) {
+    body{
+        background-image: url(https://i.pinimg.com/originals/5b/7d/49/5b7d4969007670ec44b939085f8cdb33.gif);
+    }
+}
+
+.top{ text-align: center;
+font-family: "Saira Condensed", sans-serif;;
+padding: 20px;
+margin-top: 50px;
+background-color: #e6d9c7;
+background-size: 300px auto;
+background-repeat: no-repeat;
+background-position: center;
+border-radius: 20px;
+width: 300px;
+margin: auto;
+}
+h1{
+    color: #556b5b;
+    display: inline-block;
+}
+/* background: linear-gradient( to right, #b9c0c4, #e6d9c7);*/
+
+.text{
+    text-align: center;
+font-family: "Saira Condensed", sans-serif;;
+padding: 20px;
+margin-top: 50px;
+background-color: #e6d9c7;
+background-size: 300px auto;
+background-repeat: no-repeat;
+background-position: center;
+border-radius: 20px;
+width: 420px;
+height: 100px;
+margin: 35px auto;
+
+}
+
+.text2{
+    text-align: center;
+font-family: "Saira Condensed", sans-serif;;
+padding: 20px;
+margin-top: 50px;
+background-color: #e6d9c7;
+background-size: 300px auto;
+background-repeat: no-repeat;
+background-position: center;
+border-radius: 20px;
+width: 420px;
+height: 200px;
+margin: 35px auto;
+
+}
+.text3{
+    text-align: center;
+font-family: "Saira Condensed", sans-serif;;
+padding: 20px;
+margin-top: 50px;
+background-color: #e6d9c7;
+background-size: 300px auto;
+background-repeat: no-repeat;
+background-position: center;
+border-radius: 20px;
+width: 420px;
+height: 200px;
+margin: 35px auto;
+
+}
+.text4{
+    text-align: center;
+font-family: "Saira Condensed", sans-serif;;
+padding: 20px;
+margin-top: 50px;
+background-color: #e6d9c7;
+background-size: 300px auto;
+background-repeat: no-repeat;
+background-position: center;
+border-radius: 20px;
+width: 420px;
+height: 100px;
+margin: 35px auto;
+
+}
+.final{    text-align: center;
+    font-family: "Saira Condensed", sans-serif;;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #e6d9c7;
+    background-size: 300px auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
+    width: 420px;
+    height: 100px;
+    margin: 35px auto;}
+p{color: #556b5b;}
